@@ -1,0 +1,36 @@
+{
+  "name": "pinegrow-vuetify-template",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview --port 4173",
+    "vue-devtools": "vue-devtools"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "@vueuse/head": "^0.7.6",
+    "pinia": "^2.0.14",
+    "roboto-fontface": "*",
+    "vue": "^3.2.37",
+    "vue-router": "^4.0.16",
+    "vuetify": "^3.0.0-beta.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.1.65",
+    "@mdi/js": "^6.7.96",
+    "@pinegrow/vite-plugin": "^2.0.0-alpha.1",
+    "@pinegrow/vuetify-plugin": "^3.0.0-alpha.6",
+    "@unocss/preset-icons": "^0.39.3",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "@vue/devtools": "^6.1.4",
+    "unocss": "^0.39.3",
+    "unplugin-auto-import": "^0.9.2",
+    "unplugin-vue-components": "^0.19.6",
+    "vite": "^2.9.12",
+    "vite-plugin-vuetify": "^1.0.0-alpha.0",
+    "vue-cli-plugin-vuetify": "~2.5.1"
+  }
+}
